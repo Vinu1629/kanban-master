@@ -8,7 +8,7 @@ export function Footer(props: IFooterProps) {
           {"< />"} with ♡ by{" "}
           <a
             target="_blank"
-            href=""
+            href="https://kanban-master-gules.vercel.app/"
             aria-label="creator's portfolio"
             className="-underline-offset-2 inline-block origin-left text-base font-semibold underline transition-transform duration-200 hover:scale-[1.1]"
           >
@@ -17,7 +17,7 @@ export function Footer(props: IFooterProps) {
         </p>
         <div className="flex gap-4">
           <a
-            href=""
+            href="https://github.com/Vinu1629/kanban-master"
             aria-label="Home"
             target="_blank"
             className="flex items-center gap-1 dark:text-zinc-400"
