@@ -2,7 +2,7 @@
 
 Kanban board to keep track of projects and tasks
 
-👉 [View live](https://kannban-board.vercel.app/)
+👉 [View live](https://kanban-master-gules.vercel.app/)
 
 ## Dark Mode
 
